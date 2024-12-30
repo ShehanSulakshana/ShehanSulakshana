@@ -65,18 +65,21 @@
 
 
 <a href=https://github.com/ShehanSulakshana>
+ 
+</a>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSulakshana&hide=php&theme=chartreuse-dark" /> 
+<br><br>
+ 
+<a href="https://github.com/ShehanSulakshana" style="display:flex; flex-direction:column; align-items:space-between; ">
   <img title=ShehanSulakshana src="https://github-readme-stats.vercel.app/api?username=ShehanSulakshana&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehansulakshana&hide=php&theme=chartreuse-dark" alt="shehansulakshana" />
 </a>
 
 <br><br>
 
-<a href=https://github.com/ShehanSulakshana align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSulakshana&hide=php&theme=chartreuse-dark" />
-</a>
-
-<br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana" alt="shehansulakshana" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana" alt="shehansulakshana" /></a> </p>
 
 </br>
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
