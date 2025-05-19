@@ -27,7 +27,7 @@
 <div align="center">
   <p align="centre"> 
     <img src="https://komarev.com/ghpvc/?username=ShehanSulakshana&label=Views&color=000000&style=plastic" alt="views" /> 
-  <img src="https://img.shields.io/github/followers/ShehanSulakshana.svg?style=social&label=Follow&maxAge=2592000">
+    <img src="https://img.shields.io/github/followers/ShehanSulakshana.svg">
   </p>
 </div>
 
