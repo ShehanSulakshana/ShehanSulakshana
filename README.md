@@ -1,6 +1,8 @@
 
 <h1 align="center"> Hello I'm Shehan Sulakshana 👋   </h1>
-<h3 align="center">A passionate developer from Srilanka 🇱🇰</h3>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Bsc.IT+Student;Graphic+Designer+.+passionate+developer;" /></a>
+</p>
 
 <br>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;" align="center">
@@ -88,3 +90,4 @@
 
 
 ### Giving Some Stars to my repositories will be appriciated ❤️! 
+
