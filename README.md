@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hello I'm Shehan Sulakshana 👋   </h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Bsc.IT+Student;Graphic+Designer+.+passionate+developer;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+—where+ideas+grow.;Graphic+Designer+.+Passionate+Developer;" /></a>
 </p>
 
 <br>
