@@ -64,20 +64,19 @@
 
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 <br>
-
-
-<a href=https://github.com/ShehanSulakshana>
  
-</a>
+<!-- </a>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSulakshana&hide=php&theme=chartreuse-dark" /> 
 <br><br>
- 
 <a href="https://github.com/ShehanSulakshana" style="display:flex; flex-direction:column; align-items:space-between; ">
   <img title=ShehanSulakshana src="https://github-readme-stats.vercel.app/api?username=ShehanSulakshana&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
-
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehansulakshana&hide=php&theme=chartreuse-dark" alt="shehansulakshana" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehansulakshana&hide=php&theme=chartreuse-dark" alt="shehansulakshana" />
 </a>
+-->
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ShehanSulakshana" alt="GitHub Insights" />
+</p>
 
 <br><br>
 
