@@ -20,7 +20,7 @@
       <br>
        I'm Currently Studying Bsc.Information Technology degree at Open University Of Srilanka 💻🎓
       <br>
-      I'm a fast learner and born to code 🧑‍💻.
+      I'm a fast learner and a Cybersecurity Enthusiast 🧑‍💻. <br>
       I love challenges and they always make me stronger 🤟😎❤️. 
     </samp>
   </b>
@@ -89,6 +89,7 @@
 
 
 ### Giving Some Stars to my repositories will be appriciated ❤️! 
+
 
 
 
