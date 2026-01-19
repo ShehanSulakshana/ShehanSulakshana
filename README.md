@@ -91,6 +91,10 @@
 ### Giving Some Stars to my repositories will be appriciated ❤️! 
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
+</div>
+
 
 
 
