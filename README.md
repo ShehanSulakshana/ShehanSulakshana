@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/shehan-sulakshana-129758342">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/shehan.sulakshana.77">
+  <a href="https://www.facebook.com/shehan.sulakshana.01">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://wa.me/+94713143118">
@@ -125,6 +125,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
 </div>
+
 
 
 
