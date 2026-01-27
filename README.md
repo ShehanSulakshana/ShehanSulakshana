@@ -51,7 +51,7 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shehansulakshana">
+  <a href="https://www.linkedin.com/in/shehan-sulakshana-129758342">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/shehan.sulakshana.77">
@@ -125,6 +125,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
 </div>
+
 
 
 
