@@ -23,14 +23,18 @@
       <span style="font-size: 1.1em;">🔐</span> Building secure, scalable apps with Flutter & modern web tech
       <br>
       <span style="font-size: 1.1em;">⚡</span> Cybersecurity enthusiast mastering defensive coding & offensive security
-      <br><br>
-      <a href="https://shehansulakshana.github.io/portfolio" target="_blank">
-        📁 <b>View Portfolio →</b>
-      </a>
+      <br>
+      <br>
+      <p align="center">
+        <a href="https://shehan-sulakshana.is-a.dev/">
+          <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-02539A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Visit Portfolio" />
+        </a>
+      </p>
     </samp>
   </b>
 </p>
 </br>
+
 
 <div align="center">
   <p align="centre"> 
