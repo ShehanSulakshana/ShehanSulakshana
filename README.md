@@ -118,15 +118,13 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ShehanSulakshana&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana&theme=tokyonight&no-frame=false&column=-1" alt="shehansulakshana" /></a> </p> 
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana" alt="shehansulakshana" /></a> </p> -->
+
+
 
 </br>
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
-
 </br>     
 
 
