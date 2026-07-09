@@ -127,11 +127,13 @@
 
 
 <!-- Languages -->
-<h2 align="center">Languages</h2>
+
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  Languages  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,js,php,html,css,mysql,bash&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,react,flask,php,html,css,mysql,bash&perline=6" alt="Languages" />
 </p>
 <br/>
 <br/>
@@ -141,11 +143,12 @@
 <h2 align="center">Tools &amp; Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,linux,postman,androidstudio&perline=7" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,supabase,firebase,mongodb,cloudflare,netlify,linux,kali,postman,androidstudio,figma,photoshop,vscode,pycharm,idea&perline=8" alt="Tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-Informational?style=for-the-badge&color=0f9d58" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Cross--Platform-App%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Cross-Platform App Development" />
+  <img src="https://img.shields.io/badge/Backend-Development-3C873A?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Development" />
   <img src="https://img.shields.io/badge/UI%2FUX-Design-FF6F00?style=for-the-badge" alt="UI/UX Design" />
   <img src="https://img.shields.io/badge/Cybersecurity-Basics-0A66C2?style=for-the-badge" alt="Cybersecurity Basics" />
 </p>
@@ -177,8 +180,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana&theme=tokyonight&no-frame=false&column=-1" alt="shehansulakshana" /></a> </p> 
-
+<div align="center">
+    <a href="https://github.com/CarterPerez-dev/github-profile-trophy">
+        <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=ShehanSulakshana&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>
 
 
 
