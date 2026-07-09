@@ -10,7 +10,41 @@
   <img align="centre" alt="coder-image" src="https://raw.githubusercontent.com/john-kener/John-kener/main/Developer.gif"/>
 </div>
 </br>
-<p align="center">
+
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #30363d; font-family: 'Courier New', Courier, monospace;">
+  <!-- Terminal Header -->
+  <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
+    <td style="padding: 10px; color: #8b949e; font-size: 14px;">
+      <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>
+      &nbsp;&nbsp;shehan@profile: ~/system_diagnostics
+    </td>
+  </tr>
+  <!-- Terminal Content -->
+  <tr style="background-color: #0d1117;">
+    <td style="padding: 20px; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+      <pre style="margin: 0; white-space: break-word; color: #c9d1d9;">
+  # ----------------------------------------------------
+  # SYSTEM DIAGNOSTICS: USER PROFILE
+  # ----------------------------------------------------
+  
+  <span style="color: #7ee787;">WHOAMI</span>            : Shehan Sulakshana
+  <span style="color: #7ee787;">ROLE</span>              : BSc IT Undergraduate (OUSL)
+  <span style="color: #7ee787;">CURRENT_FOCUS</span>     : Cybersecurity & Flutter Development
+  
+  <span style="color: #58a6ff;">[WORKING_ON]</span>      : 
+  Building secure, scalable Flutter applications and expanding my offensive/defensive security toolkit.
+  
+  <span style="color: #58a6ff;">[LEARNING]</span>        : 
+  Defensive coding patterns, network security infrastructure, and AI-integrated web development.
+  
+  <span style="color: #58a6ff;">[ASK_ME_ABOUT]</span>    : Networking, Cybersecurity, or Development.
+  
+  <span style="color: #58a6ff;">[PORTFOLIO]</span>    :  <a href="https://shehan-sulakshana.is-a.dev" style="color: #58a6ff; text-decoration: underline;">https://shehan-sulakshana.is-a.dev</a>
+
+</td>
+  </tr>
+</table>
+<!-- <p align="center">
   💻 Developer mindset · 🛡️ Defensive thinking · 🔒 Secure solutions
 </p>
 
@@ -33,7 +67,7 @@
     </samp>
   </b>
 </p>
-</br>
+</br> -->
 
 
 <div align="center">
