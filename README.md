@@ -11,39 +11,49 @@
 </div>
 </br>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #30363d; font-family: 'Courier New', Courier, monospace;">
+
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #30363d; font-family: 'Courier New', Courier, monospace; max-width: 100%;">
   <!-- Terminal Header -->
   <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
-    <td style="padding: 10px; color: #8b949e; font-size: 14px;">
+    <td style="padding: 10px 14px; color: #8b949e; font-size: 13px;">
       <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>
       &nbsp;&nbsp;shehan@profile: ~/system_diagnostics
     </td>
   </tr>
   <!-- Terminal Content -->
   <tr style="background-color: #0d1117;">
-    <td style="padding: 20px; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-      <pre style="margin: 0; white-space: break-word; color: #c9d1d9;">
-# ----------------------------------------------------
-# SYSTEM DIAGNOSTICS: USER PROFILE
-# ---------------------------------------------------- <br/>
-  
-  <span style="color: #7ee787;">WHOAMI</span>            : Shehan Sulakshana
-  <span style="color: #7ee787;">ROLE</span>              : BSc IT Undergraduate (OUSL)
-  <span style="color: #7ee787;">CURRENT_FOCUS</span>     : Cybersecurity & Flutter Development
-  
-  <span style="color: #58a6ff;">[WORKING_ON]</span>      : 
-  Building secure, scalable Flutter applications and expanding my offensive/defensive security toolkit.
-  
-  <span style="color: #58a6ff;">[LEARNING]</span>        : 
-  Defensive coding patterns, network security infrastructure, and AI-integrated web development.
-  
-  <span style="color: #58a6ff;">[ASK_ME_ABOUT]</span>    : Networking, Cybersecurity, or Development.
-  
-  <span style="color: #58a6ff;">[PORTFOLIO]</span>    :  <a href="https://shehan-sulakshana.is-a.dev" style="color: #58a6ff; text-decoration: underline;">https://shehan-sulakshana.is-a.dev</a>
+    <td style="padding: 22px 20px; color: #c9d1d9; font-size: 14px; line-height: 1.9; word-break: break-word; overflow-wrap: break-word; box-sizing: border-box;">
 
-</td>
+<div style="font-family: 'Courier New', Courier, monospace; color: #6e7681; font-size: 13px;">
+# ----------------------------------------------------<br/>
+# SYSTEM DIAGNOSTICS: USER PROFILE<br/>
+# ----------------------------------------------------
+</div>
+
+<br/><br/>
+
+<div style="font-family: 'Courier New', Courier, monospace; margin-bottom: 6px;"><span style="color: #7ee787; font-weight: bold;">WHOAMI</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Shehan Sulakshana</div>
+<div style="font-family: 'Courier New', Courier, monospace; margin-bottom: 6px;"><span style="color: #7ee787; font-weight: bold;">ROLE</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: BSc IT Undergraduate (OUSL)</div>
+<div style="font-family: 'Courier New', Courier, monospace;"><span style="color: #7ee787; font-weight: bold;">CURRENT_FOCUS</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Cybersecurity & Flutter Development</div>
+
+<br/>
+<div style="font-family: 'Courier New', Courier, monospace; margin-bottom: 4px;"><span style="color: #58a6ff; font-weight: bold;">[WORKING_ON]</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</div>
+<div style="padding-left: 4px;">Building secure, scalable Flutter applications and expanding my offensive/defensive security toolkit.</div>
+
+<br/>
+<div style="font-family: 'Courier New', Courier, monospace; margin-bottom: 4px;"><span style="color: #58a6ff; font-weight: bold;">[LEARNING]</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</div>
+<div style="padding-left: 4px;">Defensive coding patterns, network security infrastructure, and AI-integrated web development.</div>
+
+<br/>
+<div style="font-family: 'Courier New', Courier, monospace;"><span style="color: #58a6ff; font-weight: bold;">[ASK_ME_ABOUT]</span>&nbsp;&nbsp;&nbsp;&nbsp;: Networking, Cybersecurity, or Development.</div>
+
+<br/>
+<div style="font-family: 'Courier New', Courier, monospace;"><span style="color: #58a6ff; font-weight: bold;">[PORTFOLIO]</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="https://shehan-sulakshana.is-a.dev" style="color: #58a6ff; text-decoration: underline;">https://shehan-sulakshana.is-a.dev</a></div>
+    </td>
   </tr>
 </table>
+
+
 <!-- <p align="center">
   💻 Developer mindset · 🛡️ Defensive thinking · 🔒 Secure solutions
 </p>
@@ -69,6 +79,8 @@
 </p>
 </br> -->
 
+<br/>
+<br/>
 
 <div align="center">
   <p align="centre"> 
