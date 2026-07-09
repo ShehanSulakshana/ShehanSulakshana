@@ -48,13 +48,13 @@
 
 <div style="margin-bottom: 24px;">
   <div style="font-weight: bold; margin-bottom: 6px;">▸ learning :</div>
-  <div style="padding-left: 16px;">Network security + AI-integrated web dev.</div>
+  <div style="padding-left: 16px;">Network security + Cryptography </div>
 </div>
 <br/>
 
 <div style="margin-bottom: 24px;">
   <div style="font-weight: bold; margin-bottom: 6px;">▸ ask_me_about :</div>
-  <div style="padding-left: 16px;">Networking, Cybersecurity, or Development.</div>
+  <div style="padding-left: 16px;">Networking, Cybersecurity, or App Development.</div>
 </div>
 <br/>
 
