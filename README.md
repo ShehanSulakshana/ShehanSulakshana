@@ -23,9 +23,9 @@
   <tr style="background-color: #0d1117;">
     <td style="padding: 20px; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
       <pre style="margin: 0; white-space: break-word; color: #c9d1d9;">
-  # ----------------------------------------------------
-  # SYSTEM DIAGNOSTICS: USER PROFILE
-  # ----------------------------------------------------
+# ----------------------------------------------------
+# SYSTEM DIAGNOSTICS: USER PROFILE
+# ---------------------------------------------------- <br/>
   
   <span style="color: #7ee787;">WHOAMI</span>            : Shehan Sulakshana
   <span style="color: #7ee787;">ROLE</span>              : BSc IT Undergraduate (OUSL)
