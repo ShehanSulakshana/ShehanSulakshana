@@ -143,7 +143,7 @@
 <h2 align="center">Tools &amp; Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,supabase,firebase,mongodb,cloudflare,netlify,linux,kali,postman,androidstudio,figma,photoshop,vscode,pycharm,idea&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,supabase,firebase,mongodb,cloudflare,netlify,linux,kali,postman,androidstudio,figma,vscode,pycharm,idea&perline=8" alt="Tools" />
 </p>
 
 <p align="center">
