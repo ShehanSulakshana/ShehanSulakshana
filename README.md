@@ -185,13 +185,13 @@
 <br><br>
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies-->
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/CarterPerez-dev/github-profile-trophy">
         <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=ShehanSulakshana&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
-</div>
+</div> -->
 
 
 
