@@ -103,10 +103,13 @@
 
 <div align="center">
   <p align="centre"> 
-    <img src="https://komarev.com/ghpvc/?username=ShehanSulakshana&label=Views&color=000000&style=plastic" alt="views" /> 
-    <img src="https://img.shields.io/github/followers/ShehanSulakshana.svg">
+    <img src="https://komarev.com/ghpvc/?username=ShehanSulakshana&label=Views&color=0e75b6&style=plastic" alt="views" />
+    <img src="https://img.shields.io/github/followers/ShehanSulakshana?label=Followers&color=0e75b6&style=plastic" alt="followers" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=plastic" alt="open to work" />
   </p>
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
