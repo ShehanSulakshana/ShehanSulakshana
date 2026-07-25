@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="955px" height="560px" viewBox="0 0 955 560" font-size="16px">
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="975px" height="540px" viewBox="0 0 975 540" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -26,9 +26,9 @@ text, tspan {white-space: pre;}
 <stop offset="100%" stop-color="#e3b341"/>
 </linearGradient>
 </defs>
-<rect width="955px" height="560px" fill="#161b22" rx="15"/>
-<rect x="2" y="2" width="951px" height="556px" fill="none" stroke="url(#borderGradient)" stroke-width="3" rx="14"/>
-<text x="477" y="38" text-anchor="middle" class="heading" id="topic_heading">About Me</text>
+<rect width="975px" height="540px" fill="#161b22" rx="15"/>
+<rect x="2" y="2" width="971px" height="536px" fill="none" stroke="url(#borderGradient)" stroke-width="3" rx="14"/>
+<text x="477" y="38" text-anchor="middle" class="heading" id="topic_heading">~/about-me</text>
 <text x="15" y="70" fill="#c9d1d9" class="ascii" font-size="13px" id="ascii_text_block">
 <tspan x="15" y="70"  class="statFrame">┌─ SYSTEM STATUS ──────────────────────┐</tspan>
 <tspan x="15" y="100"  class="statFrame">│</tspan><tspan class="statLabel"> kernel</tspan><tspan class="cc">        ............ </tspan><tspan class="statOk">[ ready ] </tspan><tspan class="statFrame">│</tspan>
