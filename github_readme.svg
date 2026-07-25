@@ -26,7 +26,7 @@ text, tspan {white-space: pre;}
 <stop offset="100%" stop-color="#e3b341"/>
 </linearGradient>
 </defs>
-<rect width="975px" height="540px" fill="#00000000" rx="15"/>
+<rect width="975px" height="540px" fill="#0D1117" rx="15"/>
 <rect x="2" y="2" width="971px" height="536px" fill="none" stroke="url(#borderGradient)" stroke-width="3" rx="14"/>
 <text x="477" y="38" text-anchor="middle" class="heading" id="topic_heading">~/about-me</text>
 <text x="15" y="70" fill="#c9d1d9" class="ascii" font-size="13px" id="ascii_text_block">
