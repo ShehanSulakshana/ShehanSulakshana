@@ -187,25 +187,23 @@
 
 <br><br>
 
+## 🏆 GitHub Trophies
 
-<!-- ## 🏆 GitHub Trophies-->
-
-<!-- <div align="center">
+<div align="center">
     <a href="https://github.com/CarterPerez-dev/github-profile-trophy">
-        <img src="https://github-profile-trophy-phi-jet.vercel.app/?username=ShehanSulakshana&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ShehanSulakshana&theme=dracula" alt="TROPHY" width="84%" />
     </a>
-</div> -->
+</div>
 
 
 
-</br>
+</br></br></br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>     
 
 
 ### Giving Some Stars to my repositories will be appriciated ❤️! 
-
-
+</br></br></br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41B0F1,100:2975D6&height=120&section=footer" />
 </div>
