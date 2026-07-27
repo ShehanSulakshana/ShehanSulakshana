@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <tspan x="360" y="70" id="val_username">- Info</tspan> -—————————————————————————————————————————————————————-
 <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc" id="val_name_dots"> ................................... </tspan><tspan class="value" id="val_name">Shehan Sulakshana</tspan>
 <tspan x="370" y="110" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc" id="val_edu_dots"> .................................. </tspan><tspan class="value" id="val_edu">BSc IT @ OUSL</tspan>
-<tspan x="370" y="130" class="cc">. </tspan><tspan class="key">Main Focus</tspan>:<tspan class="cc" id="val_focus_dots"> .............. </tspan><tspan class="value" id="val_focus">App Development &amp; Cyber Security</tspan>
+<tspan x="370" y="130" class="cc">. </tspan><tspan class="key">Main.Focus</tspan>:<tspan class="cc" id="val_focus_dots"> .............. </tspan><tspan class="value" id="val_focus">App Development &amp; Cyber Security</tspan>
 <tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc" id="val_learning_dots"> ............... </tspan><tspan class="value" id="val_learning">Cryptography , Networking , UI/UX</tspan>
 <tspan x="370" y="170" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc" id="val_status_dots"> ........................................ </tspan><tspan class="value" id="val_status">Focused 🎯</tspan>
 <tspan x="370" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc" id="val_lang_prog_dots"> ................. </tspan><tspan class="value" id="val_lang_prog">Dart, Java, Python</tspan>
