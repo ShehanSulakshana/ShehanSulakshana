@@ -56,11 +56,11 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc" id="val_lang_prog_dots"> ................. </tspan><tspan class="value" id="val_lang_prog">Dart, Java, Python</tspan>
 <tspan x="370" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc" id="val_lang_comp_dots"> .................. </tspan><tspan class="value" id="val_lang_comp">HTML, CSS, JS , Bash</tspan>
 <tspan x="370" y="250" class="cc">. </tspan><tspan class="key">Ask.me.about</tspan>:<tspan class="cc" id="val_lang_real_dots"> ................ </tspan><tspan class="value" id="val_lang_real">Flutter, Cyber Security, DSA</tspan>
-<tspan x="370" y="270" class="cc">. </tspan>
+<!-- <tspan x="370" y="270" class="cc">. </tspan> -->
 <tspan x="370" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc" id="val_hobby_soft_dots"> .................................. </tspan><tspan class="value" id="val_hobby_soft">Gaming</tspan>
 <tspan x="370" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Physical</tspan>:<tspan class="cc" id="val_hobby_phys_dots"> ........................... </tspan><tspan class="value" id="val_hobby_phys">Reading Books</tspan>
 
-<tspan x="370" y="330" class="cc">. </tspan>
+<!-- <tspan x="370" y="330" class="cc">. </tspan> -->
 
 <tspan x="360" y="350">- Contact</tspan> -——————————————————————————————————————————————————-
 <tspan x="370" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc" id="val_email_personal_dots"> ..................... </tspan><tspan class="value" id="val_email_personal">shehanss007@gmail.com</tspan>
