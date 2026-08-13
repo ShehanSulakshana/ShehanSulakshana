@@ -1,8 +1,10 @@
-
-<h1 align="center"> Hello I'm Shehan Sulakshana 👋   </h1>
+<h1 align="center"> Hey! I am Shehan Sulakshana   </h1>
 <p align="center">
-  <a align="center" style="text align: center;" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=monospace+Sans&color=00FF41&center=true&width=600&pause=300&size=20&lines=shehan@github:~$+whoami;Welcome+to+my+GitHub+—+where+ideas+grow.;Cybersecurity+Enthusiast;Passionate+Developer;" /></a>
+  <a align="center" style="text align: center;" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=monospace+Sans&color=00FF41&center=true&width=600&pause=300&size=20&lines=shehanss@github:~$+whoami;Mobile+App+Developer;Cybersecurity+Enthusiast;Bsc.IT+Undergraduate+@+OUSL;" /></a>
 </p>
+
+
+
 
 <br>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;" align="center">
