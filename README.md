@@ -26,17 +26,41 @@
     <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="open to work" />
   </p>
   
-  
+
+
   
   </br>
   </br>
   
   
   <!--ABOUT CARD SVG -->
-  <p align="center">
+  <!-- <p align="center">
     <img src="https://raw.githubusercontent.com/ShehanSulakshana/ShehanSulakshana/main/github_readme.svg" alt="Neofetch card" />
-  </p>
+  </p> -->
+  <div align="left">
+
+  ## 👨‍💻 About Me — Shehan Sulakshana
   
+  I am a **Mobile Application Developer** based in Sri Lanka, currently pursuing a **BSc in IT at the Open University of Sri Lanka (OUSL)**. My focus centers on engineering cross-platform mobile apps with **Flutter & Dart** alongside penetration testing, network analysis, and application security.
+  
+  ### 🎯 Key Focus & Expertise
+  
+  * 🚀 **Mobile App Development:** Building high-performance Android & iOS applications using **Flutter** and **Dart**.
+  * 🛡️ **Cybersecurity & Systems:** Focused on **Network Security**, **Cryptography**, **Ethical Hacking**, and secure software engineering.
+  * 🎓 **Academics:** **BSc in Information Technology** Undergraduate at the **Open University of Sri Lanka (OUSL)**.
+  * 💻 **Programming & Scripting:** `Dart` • `Java` • `Python` • `JavaScript` • `HTML5/CSS3` • `Bash`
+  * 📖 **Currently Studying:** Advanced Network Protocol Security, UI/UX Systems, and Data Structures & Algorithms (DSA).
+  * 💬 **Ask Me About:** Flutter architecture, application security, mobile UI design, and secure coding practices.
+  
+  ### 📬 Connect & Contact
+  
+  * 🌐 **Portfolio:** [Shehan Sulakshana Developer Portfolio](https://shehan-sulakshana.is-a.dev)
+  * 💼 **LinkedIn:** [Shehan Sulakshana on LinkedIn](https://www.linkedin.com/in/shehan-sulakshana)
+  * 📧 **Work Email:** [shehansulakshana01@gmail.com](mailto:shehansulakshana01@gmail.com)
+  * ✉️ **Personal Email:** [shehanss007@gmail.com](mailto:shehanss007@gmail.com)
+  * 💬 **Discord:** `shehanss`
+  
+  </div>
   
   <br/>
   <br/>
