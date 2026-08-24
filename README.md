@@ -39,7 +39,18 @@
   </p> -->
   <div align="left">
 
-  ## 👨‍💻 About Me — Shehan Sulakshana
+  
+  <h2>
+  <img 
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" 
+    width="32" 
+    height="32" 
+    valign="middle" 
+    alt="Waving hand icon - About Shehan Sulakshana" 
+    loading="lazy" 
+  />
+  About Me
+  </h2>
   
   I am a **Mobile Application Developer** based in Sri Lanka, currently pursuing a **BSc in IT at the Open University of Sri Lanka (OUSL)**. My focus centers on engineering cross-platform mobile apps with **Flutter & Dart** alongside penetration testing, network analysis, and application security.
   
@@ -52,7 +63,7 @@
   * 📖 **Currently Studying:** Advanced Network Protocol Security, UI/UX Systems, and Data Structures & Algorithms (DSA).
   * 💬 **Ask Me About:** Flutter architecture, application security, mobile UI design, and secure coding practices.
   
-  ### 📬 Connect & Contact
+  ### 🌐 Find Me Online
   
   * 🌐 **Portfolio:** [Shehan Sulakshana Developer Portfolio](https://shehan-sulakshana.is-a.dev)
   * 💼 **LinkedIn:** [Shehan Sulakshana on LinkedIn](https://www.linkedin.com/in/shehan-sulakshana)
