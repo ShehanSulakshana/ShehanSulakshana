@@ -87,7 +87,11 @@
   </p> -->
   
   
-  <h2 align="center">📫 Let's Connect</h2>
+  <h2 align="center">
+    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 22px> 
+    &nbsp;Let's Connect&nbsp;
+    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 22px> 
+  </h2>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/shehan-sulakshana-129758342">
@@ -105,7 +109,7 @@
   
   <!-- Languages -->
   
-  <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  Languages  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+  <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Languages&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
   
   
   
@@ -119,7 +123,7 @@
   <!-- Tools & Skills -->
   <h2 align="center">
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-    Tools &amp; Skills
+    &nbsp;Tools &amp; Skills&nbsp;
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
   </h2>
   
@@ -147,7 +151,7 @@
   <!--INSIGHTS CARD -->
   <h2>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="25" height="25" valign="middle" alt="Lightning" />
-    GitHub Stats
+    &nbsp;GitHub Stats&nbsp;
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="25" height="25" valign="middle" alt="Lightning" />
   </h2>
  <p align="center">
@@ -186,8 +190,9 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=20&pause=1500&color=36C219&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit." />
   
-  <sub>If you find my work helpful, dropping a ⭐ on my repos is always appreciated!</sub>
-  
+  <p align="center">
+    <sub><b>If you find my work helpful, dropping a ⭐ on my repos is always appreciated!</b></sub>
+  </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36C219,50:16521E,100:08210D&height=150&section=footer&animation=fadeIn" width="100%"/>
   
   
