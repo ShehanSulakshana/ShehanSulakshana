@@ -88,12 +88,16 @@
   
   
   <h2 align="center">
-    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 22px> 
+    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 20px> 
     &nbsp;Let's Connect&nbsp;
-    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 22px> 
+    <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width = 20px> 
   </h2>
   
   <p align="center">
+    <a href="https://shehan-sulakshana.is-a.dev">
+      <img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-36C219?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    </a>
+    <br/>
     <a href="https://www.linkedin.com/in/shehan-sulakshana-129758342">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin" alt="LinkedIn"/>
     </a>
