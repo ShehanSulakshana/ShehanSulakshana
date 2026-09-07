@@ -52,7 +52,9 @@
   About Me
   </h2>
   
-  I am a **Mobile Application Developer** based in Sri Lanka, currently pursuing a **BSc in IT at the Open University of Sri Lanka (OUSL)**. My focus centers on engineering cross-platform mobile apps with **Flutter & Dart** alongside penetration testing, network analysis, and application security.
+   I am a **Mobile Application Developer** based in Sri Lanka, currently pursuing a **BSc in IT at the Open University of Sri Lanka (OUSL)**. My focus centers on engineering cross-platform mobile apps with **Flutter & Dart**, alongside my ongoing studies and exploration in the **cybersecurity field**.
+
+> Learning never stops, neither do I. 🎯💻
   
   ### 🎯 Key Focus & Expertise
   
@@ -110,41 +112,41 @@
   </p>
   <br/>
   
-  
-  <!-- Languages -->
-  
-  <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Languages&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
-  
-  
-  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,react,flask,php,html,css,mysql,bash&perline=6" alt="Languages" />
-  </p>
-  <br/>
-  <br/>
-  
-  
-  <!-- Tools & Skills -->
-  <h2 align="center">
-    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-    &nbsp;Tools &amp; Skills&nbsp;
-    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-  </h2>
-  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,supabase,firebase,mongodb,cloudflare,netlify,linux,kali,postman,androidstudio,figma,vscode,pycharm,idea&perline=8" alt="Tools" />
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Cross--Platform-App%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Cross-Platform App Development" />
-    <img src="https://img.shields.io/badge/Backend-Development-3C873A?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Development" />
-    <img src="https://img.shields.io/badge/UI%2FUX-Design-FF6F00?style=for-the-badge" alt="UI/UX Design" />
-    <img src="https://img.shields.io/badge/Cybersecurity-Basics-0A66C2?style=for-the-badge" alt="Cybersecurity Basics" />
-  </p>
-  <br/>
-  <br/>
-  
-  
+  <!-- Languages & Frameworks -->
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Languages &amp; Frameworks&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,flask,java,js,react,php,html,css,bash&perline=6" alt="Languages and Frameworks" />
+</p>
+<br/>
+
+<!-- Backend, Cloud & Databases -->
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Backend, Cloud &amp; Databases&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,cloudflare,netlify&perline=6" alt="Backend, Cloud and Databases" />
+</p>
+<br/>
+
+<!-- Tools & Environments -->
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Tools &amp; Environments&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,kali,ubuntu,postman,androidstudio,vscode,pycharm,idea,figma&perline=6" alt="Tools and Environments" />
+</p>
+<br/>
+
+<!-- Core Focus Areas -->
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Core Focus Areas&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cross--Platform-App%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Cross-Platform App Development" />
+  <img src="https://img.shields.io/badge/Backend-Development-3C873A?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-FF6F00?style=for-the-badge" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Basics-0A66C2?style=for-the-badge" alt="Cybersecurity Basics" />
+</p>
+<br/>
+<br/>
   
   <!--HORIZONTAL LINE -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
