@@ -113,28 +113,28 @@
   <br/>
   
   <!-- Languages & Frameworks -->
-<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Languages &amp; Frameworks&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<!-- <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Languages &amp; Frameworks&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,flask,java,js,react,php,html,css,bash&perline=6" alt="Languages and Frameworks" />
 </p>
-<br/>
+<br/> -->
 
 <!-- Backend, Cloud & Databases -->
-<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Backend, Cloud &amp; Databases&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<!-- <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Backend, Cloud &amp; Databases&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,cloudflare,netlify&perline=6" alt="Backend, Cloud and Databases" />
 </p>
-<br/>
+<br/> -->
 
 <!-- Tools & Environments -->
-<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Tools &amp; Environments&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<!-- <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Tools &amp; Environments&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,kali,ubuntu,postman,androidstudio,vscode,pycharm,idea,figma&perline=6" alt="Tools and Environments" />
 </p>
-<br/>
+<br/> -->
 
 <!-- Core Focus Areas -->
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  &nbsp;Core Focus Areas&nbsp;  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
@@ -147,6 +147,47 @@
 </p>
 <br/>
 <br/>
+
+
+<!-- --------------------------- -->
+
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Languages &amp; Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,flask,java,js,react,php,html,css,bash&perline=4" alt="Languages and Frameworks" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Backend, Cloud &amp; Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,cloudflare,netlify&perline=3" alt="Backend, Cloud and Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Tools &amp; Environments</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,ubuntu,postman,androidstudio,vscode,pycharm,idea,figma&perline=4" alt="Tools and Environments" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Security Toolkit</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+        <br/>
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+        <img src="https://img.shields.io/badge/Metasploit-113860?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+        <br/>
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- --------------------------- -->
+
   
   <!--HORIZONTAL LINE -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
