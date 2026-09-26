@@ -1,0 +1,281 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.1; }
+    }
+    @keyframes scan {
+      0%   { transform: translateY(-4px); opacity: 0; }
+      4%   { opacity: 0.18; }
+      96%  { opacity: 0.18; }
+      100% { transform: translateY(308px); opacity: 0; }
+    }
+    
+    /* Orbital Rotations */
+    @keyframes spin-cw  { to { transform: rotate(360deg);  } }
+    @keyframes spin-ccw { to { transform: rotate(-360deg); } }
+    
+    /* Bobbing Animations */
+    @keyframes floaty {
+      0%, 100% { transform: translateY(0px);  }
+      50%      { transform: translateY(-6px); }
+    }
+
+    /* Text & Entrance Animations */
+    @keyframes fadein-l {
+      from { opacity: 0; transform: translateX(-14px); }
+      to   { opacity: 1; transform: translateX(0px);  }
+    }
+    @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @keyframes nameglow {
+      0%, 100% { filter: drop-shadow(0 0 7px rgba(27,207,173,0.35)); }
+      50%      { filter: drop-shadow(0 0 18px rgba(27,207,173,0.65)); }
+    }
+    @keyframes linegrow {
+      from { transform: scaleX(0); }
+      to   { transform: scaleX(1); }
+    }
+
+    .dot     { animation: blink     1.8s ease-in-out infinite; }
+    .scanbar { animation: scan      5.5s linear      infinite; }
+    
+    /* Orbit Groups */
+    .orbit-a { animation: spin-cw   26s linear infinite; transform-origin: 0px 0px; }
+    .orbit-b { animation: spin-ccw  18s linear infinite; transform-origin: 0px 0px; }
+    
+    /* Counter-spin keeps logos upright while orbiting */
+    .anti-spin-a { animation: spin-ccw 26s linear infinite; transform-origin: 0px 0px; }
+    .anti-spin-b { animation: spin-cw  18s linear infinite; transform-origin: 0px 0px; }
+    
+    .fa      { animation: floaty    3.2s ease-in-out infinite; }
+    .fb      { animation: floaty    3.2s ease-in-out 1s   infinite; }
+    .fc      { animation: floaty    3.2s ease-in-out 2s   infinite; }
+
+    .t-name1 { animation: fadein-l 0.7s 0.05s ease-out both, nameglow 4s 1s ease-in-out infinite; }
+    .t-name2 { animation: fadein-l 0.7s 0.15s ease-out both, nameglow 4s 1s ease-in-out infinite; }
+    .t-sep   { animation: linegrow 0.6s 0.38s ease-out both; transform-origin: left center; }
+    .t-role  { animation: fadein   0.7s 0.45s ease-out both; }
+    .t-tags  { animation: fadein   0.7s 0.6s  ease-out both; }
+    .t-quote { animation: fadein   0.7s 0.8s  ease-out both; }
+    .t-right { animation: fadein   0.9s 0.3s  ease-out both; }
+  </style>
+
+  <!-- Backgrounds -->
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="#050c0a"/>
+    <stop offset="55%"  stop-color="#060d0b"/>
+    <stop offset="100%" stop-color="#08100e"/>
+  </linearGradient>
+  <radialGradient id="glow-l" cx="18%" cy="55%" r="45%">
+    <stop offset="0%"   stop-color="#0d3d2e" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#050e0b" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow-r" cx="80%" cy="45%" r="38%">
+    <stop offset="0%"   stop-color="#0a2a3a" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#050e0b" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orb-glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%"   stop-color="#1bcfad" stop-opacity="0.12"/>
+    <stop offset="100%" stop-color="#1bcfad" stop-opacity="0"/>
+  </radialGradient>
+
+  <!-- Filters -->
+  <filter id="fg" x="-25%" y="-25%" width="150%" height="150%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="fg2" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Grid -->
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+    <path d="M44 0H0V44" stroke="#1a3028" stroke-width="0.4" fill="none" opacity="0.5"/>
+  </pattern>
+
+  <!-- Clip -->
+  <clipPath id="clip"><rect width="900" height="300" rx="10"/></clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+
+  <!-- ── Base Layers ── -->
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="300" fill="url(#glow-l)"/>
+  <rect width="900" height="300" fill="url(#glow-r)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+
+  <!-- Scan line -->
+  <rect class="scanbar" x="0" y="-3" width="900" height="3" fill="#1bcfad"/>
+
+  <!-- Corner brackets -->
+  <g stroke="#1bcfad" stroke-width="1.4" fill="none" opacity="0.5">
+    <path d="M24,9  L9,9  L9,24"/>
+    <path d="M876,9  L891,9  L891,24"/>
+    <path d="M24,291 L9,291  L9,276"/>
+    <path d="M876,291 L891,291 L891,276"/>
+  </g>
+
+  <!-- Watermark S -->
+  <text x="826" y="290" font-family="'Segoe UI',Arial,sans-serif" font-size="170" font-weight="900"
+        fill="#1bcfad" opacity="0.032">S</text>
+
+  <!-- ── LEFT CONTENT ── -->
+
+  <!-- Status indicator -->
+  <g transform="translate(36,34)">
+    <circle class="dot" cx="5" cy="4.5" r="4" fill="#1bcfad" filter="url(#fg)"/>
+    <text x="17" y="9" font-family="'Courier New',Courier,monospace" font-size="10"
+          fill="#1bcfad" letter-spacing="2.2" opacity="0.88">AVAILABLE FOR PROJECTS.</text>
+  </g>
+
+  <!-- SHEHAN -->
+  <text class="t-name1" x="32" y="112"
+        font-family="'Arial Black','Arial',Helvetica,sans-serif"
+        font-size="64" font-weight="900" fill="#ffffff" letter-spacing="-1">SHEHAN</text>
+
+  <!-- SULAKSHANA -->
+  <text class="t-name2" x="32" y="166"
+        font-family="'Arial Black','Arial',Helvetica,sans-serif"
+        font-size="46" font-weight="900" fill="#1bcfad" letter-spacing="-0.5">SULAKSHANA</text>
+
+  <!-- Separator line -->
+  <rect class="t-sep" x="36" y="182" width="230" height="1.5" fill="#1bcfad" opacity="0.7" rx="1"/>
+
+  <!-- Role -->
+  <text class="t-role" x="36" y="204"
+        font-family="'Segoe UI',Arial,Helvetica,sans-serif"
+        font-size="12" fill="#6ee8cc" letter-spacing="0.7" opacity="0.85">
+    Mobile App Developer  ·  CyberSecurity Enthusiast
+  </text>
+
+  <!-- Tag pills -->
+  <g class="t-tags" font-family="'Courier New',Courier,monospace" font-size="10">
+    <rect x="36"  y="218" width="94"  height="22" rx="3" fill="#1bcfad" fill-opacity="0.07" stroke="#1bcfad" stroke-width="0.8" stroke-opacity="0.45"/>
+    <text x="83"  y="233" text-anchor="middle" fill="#6ee8cc" opacity="0.95">Mobile Dev</text>
+
+    <rect x="140" y="218" width="86" height="22" rx="3" fill="#1bcfad" fill-opacity="0.07" stroke="#1bcfad" stroke-width="0.8" stroke-opacity="0.45"/>
+    <text x="183" y="233" text-anchor="middle" fill="#6ee8cc" opacity="0.95">CyberSec</text>
+
+    <rect x="236" y="218" width="94"  height="22" rx="3" fill="#1bcfad" fill-opacity="0.07" stroke="#1bcfad" stroke-width="0.8" stroke-opacity="0.45"/>
+    <text x="283" y="233" text-anchor="middle" fill="#6ee8cc" opacity="0.95">Pentesting</text>
+
+    <rect x="340" y="218" width="66"  height="22" rx="3" fill="#7c3aed" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="373" y="233" text-anchor="middle" fill="#a78bfa" opacity="0.92">AppSec</text>
+  </g>
+
+  <!-- Quote -->
+  <text class="t-quote" x="36" y="272"
+        font-family="'Courier New',Courier,monospace"
+        font-size="12.5" font-weight="bold" fill="#6ee8cc" font-style="italic" opacity="1">
+    // Code. Secure. Deploy.
+  </text>
+
+  <!-- Vertical divider -->
+  <line x1="565" y1="28" x2="565" y2="272" stroke="#1bcfad" stroke-width="0.4" stroke-opacity="0.14"/>
+
+  <!-- ── RIGHT DECORATION (Orbiting Custom Vector Icons) ── -->
+  <g class="t-right" transform="translate(720,148)">
+
+    <!-- Ambient glow -->
+    <circle r="122" fill="url(#orb-glow)"/>
+    <circle r="112" fill="none" stroke="#1bcfad" stroke-width="0.3" stroke-opacity="0.12" filter="url(#fg2)"/>
+
+    <!-- Center core -->
+    <circle r="44" fill="#060d0b" stroke="#1bcfad" stroke-width="1" stroke-opacity="0.55"/>
+    <circle r="38" fill="#1bcfad" fill-opacity="0.04"/>
+    <text text-anchor="middle" y="10" font-family="'Courier New',Courier,monospace" font-size="28" fill="#1bcfad" opacity="0.88" filter="url(#fg)">{ }</text>
+
+    <!-- Outer Orbit Group (Clockwise - Radius 102) -->
+    <g class="orbit-a">
+      <circle r="102" fill="none" stroke="#1bcfad" stroke-width="0.75" stroke-dasharray="4 12" stroke-opacity="0.3"/>
+      
+      <!-- Staggered Orbiting Particle Balls (avoiding icon angles 0°, 120°, 240°) -->
+      <circle cx="51" cy="88.3" r="2.5" fill="#1bcfad" opacity="0.8" filter="url(#fg)"/>
+      <circle cx="-102" cy="0" r="3" fill="#a78bfa" opacity="0.85" filter="url(#fg)"/>
+      <circle cx="51" cy="-88.3" r="2.5" fill="#1bcfad" opacity="0.8"/>
+      <!-- Faded Balls -->
+      <circle cx="-88.3" cy="51" r="2" fill="#a78bfa" opacity="0.35"/>
+      <circle cx="88.3" cy="-51" r="2" fill="#1bcfad" opacity="0.35"/>
+
+      <!-- Flutter Icon (Right: Angle 0) -->
+      <g transform="translate(102, 0)">
+        <g class="anti-spin-a">
+          <g class="fa">
+            <svg x="-8" y="-10" width="16" height="16" viewBox="0 0 640 640" overflow="visible">
+              <path d="M525.5 300.3L387.7 438.1L525.5 576L368 576C331.9 539.9 285.9 493.9 230.1 438.1L368 300.3L525.5 300.3zM368 64L112 320L190.8 398.8L525.5 64L368 64z" fill="#1bcfad"/>
+            </svg>
+            <text x="0" y="13" font-family="'Courier New', monospace" font-size="8" fill="#6ee8cc" opacity="0.85" text-anchor="middle">Flutter</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- Java Icon (Bottom Left: Angle 120) -->
+      <g transform="translate(-51, 88.3)">
+        <g class="anti-spin-a">
+          <g class="fb">
+            <svg x="-8" y="-10" width="16" height="16" viewBox="0 0 640 640" overflow="visible">
+              <path d="M405.8 376.9C415.6 370.2 429.2 364.4 429.2 364.4C429.2 364.4 390.5 371.4 352 374.6C304.9 378.5 254.3 379.3 228.9 375.9C168.8 367.9 261.9 345.8 261.9 345.8C261.9 345.8 225.8 343.4 181.3 364.8C128.8 390.2 311.3 401.8 405.8 376.9zM320.4 344.8C301.4 302.1 237.3 264.6 320.4 199C424.1 117.2 370.9 64 370.9 64C392.4 148.5 295.3 174.1 260.2 226.6C236.3 262.5 271.9 301 320.4 344.8zM435 168.6C435.1 168.6 259.8 212.4 343.5 308.8C368.2 337.2 337 362.8 337 362.8C337 362.8 399.7 330.4 370.9 289.9C344 252.1 323.4 233.3 435 168.6zM428.9 439.1C428.4 440.1 427.7 440.9 426.9 441.7C555.2 408 508 322.8 446.7 344.4C443.4 345.6 440.5 347.8 438.5 350.7C442.1 349.4 445.8 348.4 449.5 347.7C480.5 341.2 525 389.2 428.9 439.1zM476 501.4C476 501.4 490.5 513.3 460.1 522.6C402.2 540.1 219.3 545.4 168.5 523.3C150.2 515.4 184.5 504.3 195.3 502C206.5 499.6 213 500 213 500C192.7 485.7 81.7 528.1 156.6 540.2C360.8 573.4 529 525.3 476 501.4zM252.5 460C173.8 482 300.4 527.4 400.6 484.5C390.8 480.7 381.4 476.1 372.4 470.7C327.7 479.2 307 479.8 266.4 475.2C232.9 471.4 252.5 460 252.5 460zM432.3 557.2C353.6 572 256.5 570.3 199 560.8C199 560.7 210.8 570.5 271.4 574.4C363.6 580.3 505.2 571.1 508.5 527.5C508.5 527.5 502.1 544 432.3 557.2zM388.7 417C329.5 428.4 295.2 428.1 251.9 423.6C218.4 420.1 240.3 403.9 240.3 403.9C153.5 432.7 288.5 465.3 409.8 429.8C402 427 394.8 422.7 388.7 417z" fill="#1bcfad"/>
+            </svg>
+            <text x="0" y="13" font-family="'Courier New', monospace" font-size="8" fill="#6ee8cc" opacity="0.85" text-anchor="middle">Java</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- Parrot OS Glyph Icon (Top Left: Angle 240) -->
+      <g transform="translate(-51, -88.3)">
+        <g class="anti-spin-a">
+          <g class="fc">
+            <svg x="-8" y="-10" width="16" height="16" viewBox="0 0 24 24" overflow="visible">
+              <path d="M6.267 2.784L13.03 5.54l8.05-.179-8.05 3.333-2.154 2.688 5.007 9.038-1.536-1.605 1.645 3.456-4.937-5.527-6.268-6.28L2.77 12.11l.7-3.442 4.018-.261.823-4.06Z" fill="#1bcfad"/>
+            </svg>
+            <text x="0" y="13" font-family="'Courier New', monospace" font-size="8" fill="#6ee8cc" opacity="0.85" text-anchor="middle">ParrotOS</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- Inner Orbit Group (Counter-Clockwise - Radius 72) -->
+    <g class="orbit-b">
+      <circle r="72" fill="none" stroke="#7c3aed" stroke-width="0.75" stroke-dasharray="3 9" stroke-opacity="0.38"/>
+      
+      <!-- Staggered Orbiting Particle Balls (avoiding icon angles 45°, 225°) -->
+      <circle cx="0" cy="72" r="2.5" fill="#a78bfa" opacity="0.85" filter="url(#fg)"/>
+      <circle cx="-50.9" cy="50.9" r="2" fill="#1bcfad" opacity="0.7"/>
+      <circle cx="0" cy="-72" r="2.5" fill="#a78bfa" opacity="0.85" filter="url(#fg)"/>
+      <circle cx="50.9" cy="-50.9" r="2" fill="#1bcfad" opacity="0.7"/>
+
+      <!-- Python Icon (Bottom Right: Angle 45) -->
+      <g transform="translate(50.9, 50.9)">
+        <g class="anti-spin-b">
+          <g class="fa">
+            <svg x="-8" y="-10" width="16" height="16" viewBox="0 0 640 640" overflow="visible">
+              <path d="M535.8 264.5C528.1 233.6 513.5 210.3 482.4 210.3L442.3 210.3L442.3 257.7C442.3 294.5 411.1 325.5 375.5 325.5L268.7 325.5C239.5 325.5 215.3 350.5 215.3 379.8L215.3 481.6C215.3 510.6 240.5 527.6 268.7 535.9C302.5 545.8 335 547.6 375.5 535.9C402.4 528.1 428.9 512.4 428.9 481.6L428.9 440.9L322.2 440.9L322.2 427.3L482.4 427.3C513.5 427.3 525 405.6 535.8 373.1C547 339.6 546.5 307.4 535.8 264.5zM382.2 508.7C374.6 509.2 367.3 505.5 363.3 499C359.4 492.4 359.4 484.3 363.3 477.7C367.3 471.2 374.6 467.5 382.2 468C389.8 467.5 397.1 471.2 401.1 477.7C405 484.3 405 492.4 401.1 499C397.1 505.5 389.8 509.2 382.2 508.7zM263.8 312.1L370.6 312.1C400.3 312.1 424 287.6 424 257.8L424 155.9C424 126.9 399.6 105.2 370.6 100.3C334.8 94.4 295.9 94.7 263.8 100.4C218.6 108.4 210.4 125.1 210.4 156L210.4 196.7L317.3 196.7L317.3 210.3L170.3 210.3C139.2 210.3 112 229 103.5 264.5C93.7 305.2 93.3 330.6 103.5 373.1C111.1 404.7 129.2 427.3 160.3 427.3L197 427.3L197 378.5C197 343.2 227.5 312.1 263.8 312.1zM257.2 128.7C268.5 128.7 277.6 137.8 277.6 149.1C277.6 160.4 268.5 169.5 257.2 169.5C245.9 169.5 236.8 160.4 236.8 149.1C236.8 137.8 245.9 128.7 257.2 128.7z" fill="#1bcfad"/>
+            </svg>
+            <text x="0" y="13" font-family="'Courier New', monospace" font-size="8" fill="#6ee8cc" opacity="0.85" text-anchor="middle">Python</text>
+          </g>
+        </g>
+      </g>
+
+      <!-- Terminal Icon (Top Left: Angle 225) -->
+      <g transform="translate(-50.9, -50.9)">
+        <g class="anti-spin-b">
+          <g class="fb">
+            <svg x="-8" y="-10" width="16" height="16" viewBox="0 0 640 640" overflow="visible">
+              <path d="M73.4 182.6C60.9 170.1 60.9 149.8 73.4 137.3C85.9 124.8 106.2 124.8 118.7 137.3L278.7 297.3C291.2 309.8 291.2 330.1 278.7 342.6L118.7 502.6C106.2 515.1 85.9 515.1 73.4 502.6C60.9 490.1 60.9 469.8 73.4 457.3L210.7 320L73.4 182.6zM288 448L544 448C561.7 448 576 462.3 576 480C576 497.7 561.7 512 544 512L288 512C270.3 512 256 497.7 256 480C256 462.3 270.3 448 288 448z" fill="#1bcfad"/>
+            </svg>
+            <text x="0" y="13" font-family="'Courier New', monospace" font-size="8" fill="#6ee8cc" opacity="0.85" text-anchor="middle">Terminal</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+  </g>
+
+</g>
+</svg>
