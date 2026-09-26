@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08210D,50:16521E,100:36C219&height=230&section=header&text=Hey!+I+am+Shehan+Sulakshana&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=Mobile+App+Developer+|+Cyber+Security+Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
-  
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08210D,50:16521E,100:36C219&height=230&section=header&text=Hey!+I+am+Shehan+Sulakshana&fontSize=35&fontColor=FFFFFF&fontAlignY=35&desc=Mobile+App+Developer+|+Cyber+Security+Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+   -->
+
+  <p align="center">
+    <img src="https://github.com/ShehanSulakshana/ShehanSulakshana/blob/main/banner-svg.svg" alt="Shehan Sulakshana Banner" width="100%">
+  </p>
+  </br>
+  </br>
+  </br>
+
   
   <!--DEVELOPER IMAGE -->
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;" align="center">
