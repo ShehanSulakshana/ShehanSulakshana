@@ -226,7 +226,7 @@
   </h2>
   <div align="center">
       <a href="https://github.com/CarterPerez-dev/github-profile-trophy">
-          <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ShehanSulakshana&theme=dracula" alt="TROPHY" width="84%" />
+          <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ShehanSulakshana&theme=dracula&row=2&column=4&margin-w=5&margin-h=5" alt="TROPHY" width="84%" />
       </a>
   </div>
   
