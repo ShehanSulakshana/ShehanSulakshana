@@ -210,7 +210,7 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="25" height="25" valign="middle" alt="Lightning" />
   </h2>
  <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ShehanSulakshana&theme=github_dark" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=ShehanSulakshana&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=TypeScript" alt="Refresh the browser !" />
 </p>
 
 
